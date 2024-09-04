@@ -1,16 +1,10 @@
-<h1 align="center">Hey 👋 Look here!</h1>
+# Lorenzo Alessi
 
-###
+👋 Hi! My name is **Lorenzo Alessi**, and I'm a passionate developer from Italy.
 
-<p align="left">My name is Lorenzo Alessi and I'm a passionate developer from Italy</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🤪 Creating bugs<br>📚 I'm currently learning Angular and Java<br>🎯 Goals? Not many<br>🎲 Fun fact, I live in a small village of 300 inhabitants 💀</p>
+## 🔧 Skills
+- Web Development
+- Backend Development
 
 ###
 
@@ -47,9 +41,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
+
+## 💡 What am I passionate about?
+I'm always looking for new technologies and challenges. I enjoy solving complex problems and building scalable web solutions.
+
+## 📫 How to reach me
+- LinkedIn: [linkedin.com/in/lorenzoalessi](https://www.linkedin.com/in/lorenzo-alessi-26aa27230/)
+- Email: alessilorenzo02@gmail.com
+
+## 🌱 Currently
+Working at Maggioli spa.
+
+##
+
+Thanks for visiting my GitHub profile!
